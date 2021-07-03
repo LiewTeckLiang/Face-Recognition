@@ -8,3 +8,12 @@ Run FrontEnd.py to start.
 Change the path variable at BackEnd.py to yout desired path to save the registered image.
 
 Attendance records will be saved inside "Attendance.csv"
+
+
+### Disclaimer ###
+
+Utlizing face_recogntion library by Adam Geitgey.
+
+face_recognition artictle: https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
+face_recognition library documentation: https://face-recognition.readthedocs.io/en/latest/readme.html
