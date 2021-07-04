@@ -9,6 +9,8 @@ Change the path variable at BackEnd.py to yout desired path to save the register
 
 Attendance records will be saved inside "Attendance.csv"
 
+Video: https://www.youtube.com/watch?v=D64Y65B-R3k&t=2s
+
 
 ### Disclaimer ###
 
